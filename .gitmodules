@@ -1,0 +1,6 @@
+[submodule "livro-next-2"]
+	path = livro-next-2
+	url = https://github.com/Tiagotjp/livro-next-2
+[submodule "livros-react-1"]
+	path = livros-react-1
+	url = https://github.com/Tiagotjp/livros-react-1
